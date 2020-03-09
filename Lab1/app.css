@@ -1,0 +1,36 @@
+
+h1{
+    color: #333;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 1px solid #eee;
+}
+
+div{
+    padding: 10px;
+    background-color: #fafafa;
+    width: 400px;
+    border: 1px solid #eee;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+ul{
+    padding: 10px 15px;
+    border: 1px solid #eee;
+}
+
+ul li{
+    margin: 10px 5px;
+    background-attachment: #fafafa;
+}
+
+ul li:hover{
+    border: 1px solid rgba(25, 156, 218, 0.897);
+}
+
+ul li button{
+    float: right;
+    background-color: rgb(201, 135, 135);
+}
+
